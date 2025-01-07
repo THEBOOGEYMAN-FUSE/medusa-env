@@ -1,0 +1,16 @@
+# Ignore Python bytecode files
+*.pyc
+__pycache__/
+
+# Ignore environment variable files
+.env
+
+# Ignore VSCode settings
+.vscode/
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore the virtual environment directory
+/medusa-env/
+
